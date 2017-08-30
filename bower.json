@@ -5,7 +5,7 @@
     "main" : ["dist/*"],
     "ignore" : [ "samples/", "bower_components"],
     "dependencies": {
-        "leaflet-dist": ">=0.7.0",
+        "leaflet": "1.2.0",
         "font-awesome": ">=4.0.3"
     },
     "devDependencies" : {
